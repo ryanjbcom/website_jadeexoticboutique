@@ -1,6 +1,6 @@
 # website_jadeexoticboutique
 
-RJB, HTML, CSS, JS, Wordpress, W00-Commerce hybird, integrating React components.
+RJB, HTML, CSS, JS, Wordpress, Woo-Commerce hybird, integrating React components.
 
 www.jadeexoticboutique.com
 
